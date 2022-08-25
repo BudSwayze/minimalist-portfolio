@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>P Card</title>
+</head>
+<body>
+    <div class="grid-2">
+        <div class="section-1">
+		 <h2><iframe width="560" height="315"
+src="https://youtube.com/embed/UdjFtrcUKEI?&autoplay=1"frameborder="0" 
+allowfullscreen></iframe></h2>
+      
+            <h2>P Card</h2>
+            <p>Custom Design</p>
+             <a href="https://bit.ly/3rxar1v"target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+            <a href="https://bit.ly/3JIRBLe"target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+	    <a href="https://spoti.fi/3oEKefD"target="_blank" rel="noopener noreferrer"><i class="fab fa-spotify"></i></a>
+        </div>
+        <div class="section-2">
+            <h2>P Card</h2>
+            <p>
+            
+    </div>
+    <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='92b0b36855508b1409fe40504d95a4bc34d07f612e991d8fa46eb556e1f87fd0';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
+	
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5444174464539652"
+     crossorigin="anonymous"></script>
+</body>
+</html>
